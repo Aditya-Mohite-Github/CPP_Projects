@@ -1,9 +1,0 @@
-                         Payment receipt
-
-        Product          Price       Quantity    Total Price
-------------------------------------------------------------
-     Nike_shoes        1299.00              1        1299.00
- Gooday_Cookies          49.00              2          98.00
-    Sugar(3kgs)         290.00              1         290.00
-------------------------------------------------------------
-                              Grand Total -> 1687.00
