@@ -20,10 +20,10 @@ Usage:
    	- Enter '0' as the product name to exit and generate the receipt.
 
 	4. Output:
-   	- The program will generate a text file named "Receipt.txt" containing the payment receipt with a breakdown of the purchased items 	and their total prices.
+   	- The program will generate a text file named "Receipt.txt" containing the payment receipt with a breakdown of the purchased items and their total prices.
 
 Dependencies:
-	The program uses standard C++ libraries (fstream[ for file handling ], vector[ as storage container ], iomanip [ Beautification 	of Receipt and User Interface a little ] ) and does not require any external dependencies.
+	The program uses standard C++ libraries (fstream[ for file handling ], vector[ as storage container ], iomanip [ Beautification of Receipt and User Interface a little ] ) and does not require any external dependencies.
 
 
 
