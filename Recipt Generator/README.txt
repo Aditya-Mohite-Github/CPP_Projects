@@ -1,7 +1,7 @@
 						** Receipt Generator **
 
 Description:
-	This program is a simple receipt generator that allows users to input details of products purchased and generates a payment 	receipt in a text file format. It prompts the user to enter product names, prices, and quantities, calculates the total price for 	each product, and then generates a receipt with a breakdown of the purchased items and their total prices.
+	This program is a simple receipt generator that allows users to input details of products purchased and generates a payment receipt in a text file format. It prompts the user to enter product names, prices, and quantities, calculates the total price for each product, and then generates a receipt with a breakdown of the purchased items and their total prices.
 
 Files:
 	- receipt_generator.cpp: The main C++ source code file containing the implementation of the receipt generator program.
